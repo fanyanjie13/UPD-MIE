@@ -1,2 +1,2 @@
 # UPD-MIE
-Scripts for Trio-based exome MIE and UPD detection, visualization and classification
+Scripts for Trio-exome based MIE and UPD detection, visualization and classification.
